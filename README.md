@@ -49,6 +49,7 @@
 - Coded a custom error-logging tool that informs the user of mistakes in real-time.
 
 
+![jcdecaux debugger](/assets/img/4.PNG)
 
 ### Power BI customer churn analysis project
 
@@ -59,10 +60,9 @@
 - Developed and implemented measures and calculated columns to quantify and understand churn dynamics.
 - Produced visually engaging and informative report pages using Power BI to present analytical findings.
 
+
 ![customer churn](/assets/img/5.PNG)
 
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 
 
