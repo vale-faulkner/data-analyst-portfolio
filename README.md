@@ -28,7 +28,7 @@
 
 **Finance Data Analyst intern @ Enterprise Group (Enterprise Life Insurance) (_March 2019 - April 2019_)**
 -	Enterprise Life Insurance is the leading insurance provider in West Africa for life, property, and accident insurance products.
--	Achieved 5% revenue growth after analysing insurance premium data to spot trends for the marketing department.
+-	Achieved 5% revenue growth after analyzing insurance premium data to spot trends for the marketing department.
 -	Analysed 6 customer insurance claims for reporting purposes.
 -	forecasted operational expenses and performed monthly accounting reconciliations.
 
