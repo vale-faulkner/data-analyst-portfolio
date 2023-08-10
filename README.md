@@ -4,11 +4,12 @@
 
 ## Education
 - Python Data Analyst Certification (SQL, Numpy, Matplotlib, Pandas, Seaborn) | DataCamp Digital School (_December 2022 - May 2023_)	
-- MSc International Marketing and Business Development (data specialization) | SKEMA Business School Paris (_December 2022_)
+- MSc International Marketing and Business Development (DATA TRACK) | SKEMA Business School Paris (_December 2022_)
 - MA International Business | Westminster University London
                		
 - MSc Management | Bayes Business School London 			        		
 - BSc Economics, Finance, and Management | Queen Mary University of London
+
 
 ## Work Experience
 **Data Project Manager and Marketing Data Analyst intern @ JCDecaux (_January 2022 - June 2022_)**
@@ -32,46 +33,32 @@
 -	Analysed 6 customer insurance claims for reporting purposes.
 -	forecasted operational expenses and performed monthly accounting reconciliations.
 
+**Finance Data Analyst intern @ Ernst & Young (EY) (_June 2018 - September 2018_)**
+-	Saved over $1,000 in tax fees after having audited 3 clients applying for tax exemptions from the government.
+-	Successfully trained 2 junior interns who now manage their own accounting projects.
+-	Conducted a financial analysis of a client in the airline industry to create a new business plan for the industry.
 
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Power BI automated dashboards for JCDecaux's global marketing audit
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- Developed **83** automated Power BI dashboards to deliver business intelligence insights and data-driven solutions using **Power BI**. 
+- Improved the efficiency of the marketing audit by 66% using automated dashboards through **Power BI**
+- Designed complex queries and code to analyze 957 706 items to leverage data for digital marketing campaigns.
+- Coded a custom error-logging tool that informs the user of mistakes in real-time.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+### Power BI customer churn analysis project
+
+
+- Utilized **Power BI** to examine and interpret data from Databel, a fictional telecom company.
+- Conducted in-depth analysis of churn rates within a subscription-based business context.
+- Investigated customer churn patterns and rates to gain insights into business performance.
+- Developed and implemented measures and calculated columns to quantify and understand churn dynamics.
+- Produced visually engaging and informative report pages using Power BI to present analytical findings.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
