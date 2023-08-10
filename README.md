@@ -48,7 +48,12 @@
 - Designed complex queries and code to analyze 957 706 items to leverage data for digital marketing campaigns.
 - Coded a custom error-logging tool that informs the user of mistakes in real-time.
 
+
+![jcdecaux debugger](/assets/img/2.PNG)
+
+
 ![jcdecaux debugger](/assets/img/4.PNG)
+
 
 ### Power BI customer churn analysis project
 
