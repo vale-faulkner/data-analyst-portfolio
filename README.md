@@ -76,7 +76,7 @@
 - BSc Economics, Finance, and Management | Queen Mary University of London
 
 
-## Work Experience
+## Expérience
 **Stage Chef de Projet Data et Data Analyst Power BI @ JCDecaux (_Janvier 2022 - Juin 2022_)**
 
 
