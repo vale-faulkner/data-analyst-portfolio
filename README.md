@@ -1,8 +1,5 @@
 # Data Analyst Portfolio (version française en fin de page)
 
-![jcdecaux debugger](/assets/img/4.PNG)
-
-
 #### Technical Skills: Statistics, Econometrics, Excel, VBA, Python, SQL, Power BI
 
 ## Education
