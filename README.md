@@ -1,5 +1,8 @@
 # Data Analyst Portfolio (version française en fin de page)
 
+![jcdecaux debugger](/assets/img/4.PNG)
+
+
 #### Technical Skills: Statistics, Econometrics, Excel, VBA, Python, SQL, Power BI
 
 ## Education
@@ -12,16 +15,16 @@
 
 
 ## Data Analyst Work Experience
-**Data Project Manager and Marketing Data Analyst intern @ JCDecaux (_January 2022 - June 2022_)**
+**Data Project Manager and Marketing Data Analyst intern @ JCDecaux (January 2022 - June 2022)**
 
 
-**Finance Data Analyst intern @ Total Energies (_June 2019 - July 2019_)**
+**Finance Data Analyst intern @ Total Energies (June 2019 - July 2019)**
 
 
-**Finance Data Analyst intern @ Enterprise Group (Enterprise Life Insurance) (_March 2019 - April 2019_)**
+**Finance Data Analyst intern @ Enterprise Group (Enterprise Life Insurance) (March 2019 - April 2019)**
 
 
-**Finance Data Analyst intern @ Ernst & Young (EY) (_June 2018 - September 2018_)**
+**Finance Data Analyst intern @ Ernst & Young (EY) (June 2018 - September 2018)**
 
 
 
@@ -76,7 +79,7 @@
 - BSc Economics, Finance, and Management | Queen Mary University of London
 
 
-## Expérience
+## Expérience de Data Analyst
 **Stage Chef de Projet Data et Data Analyst Power BI @ JCDecaux (_Janvier 2022 - Juin 2022_)**
 
 
@@ -90,7 +93,7 @@
 
 
 ## Projets
-### Power BI automated dashboards for JCDecaux's global marketing audit
+### Tableaux de bord automatisés Power BI pour l'audit marketing global de JCDecaux
 
 
 - Développement de **83** tableaux de bord **Power BI** automatisés pour fournir des informations décisionnelles et une solution basée sur les donnéesa.
@@ -105,8 +108,7 @@
 ![jcdecaux debugger](/assets/img/4.PNG)
 
 
-### Power BI customer churn analysis project
-
+### Projet d'analyse de l'attrition des clients Power BI
 
 - Utilisation de **Power BI** pour examiner et interpréter les données de Databel, une société de télécommunications.
 - Analyse approfondie des taux de désabonnement dans un contexte commercial basé sur les abonnements.
