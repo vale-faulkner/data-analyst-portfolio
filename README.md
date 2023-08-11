@@ -105,7 +105,7 @@
 ![jcdecaux debugger](/assets/img/4.PNG)
 
 
-### Projet d'analyse de l'attrition des clients Power BI
+### Projet d'analyse de l'attrition des clients telecom sur Power BI
 
 - Utilisation de **Power BI** pour examiner et interpréter les données de Databel, une société de télécommunications.
 - Analyse approfondie des taux de désabonnement dans un contexte commercial basé sur les abonnements.
