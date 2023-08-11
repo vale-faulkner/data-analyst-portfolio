@@ -3,8 +3,8 @@
 #### Technical Skills: Statistics, Econometrics, Excel, VBA, Python, SQL, Power BI
 
 ## Education
-- Python Data Analyst Certification (SQL, Numpy, Matplotlib, Pandas, Seaborn) | DataCamp Digital School (_December 2022 - May 2023_)	
-- MSc International Marketing and Business Development (DATA TRACK) | SKEMA Business School Paris (_December 2022_)
+- Python Data Analyst Certification (SQL, Numpy, Matplotlib, Pandas, Seaborn) | DataCamp Digital School (December 2022 - May 2023)	
+- MSc International Marketing and Business Development (DATA TRACK) | SKEMA Business School Paris (December 2022)
 - MA International Business | Westminster University London
                		
 - MSc Management | Bayes Business School London 			        		
@@ -68,8 +68,8 @@
 #### Compétences Techniques: Statistiques, Econometrie, Excel, VBA, Python, SQL, Power BI
 
 ## Formation
-- Python Data Analyst Certification (SQL, Numpy, Matplotlib, Pandas, Seaborn) | DataCamp école de la Data Science (_Decembre 2022 - Mai 2023_)	
-- MSc International Marketing and Business Development (DATA FOCUS) | SKEMA Business School Paris (_December 2022_)
+- Python Data Analyst Certification (SQL, Numpy, Matplotlib, Pandas, Seaborn) | DataCamp école de la Data Science (Decembre 2022 - Mai 2023)	
+- MSc International Marketing and Business Development (DATA FOCUS) | SKEMA Business School Paris (December 2022)
 - MA International Business | Westminster University London
                		
 - MSc Management | Bayes Business School London 			        		
@@ -77,16 +77,16 @@
 
 
 ## Expérience de Data Analyst
-**Stage Chef de Projet Data et Data Analyst Power BI @ JCDecaux (_Janvier 2022 - Juin 2022_)**
+**Stage Chef de Projet Data et Data Analyst Power BI @ JCDecaux (Janvier 2022 - Juin 2022)**
 
 
-**Finance Data Analyst intern @ Total Energies (_Juin 2019 - Juillet 2019_)**
+**Finance Data Analyst intern @ Total Energies (Juin 2019 - Juillet 2019)**
 
 
-**Finance Data Analyst intern @ Enterprise Group (Enterprise Life Insurance) (_March 2019 - April 2019_)**
+**Finance Data Analyst intern @ Enterprise Group (Enterprise Life Insurance) (March 2019 - April 2019)**
 
 
-**Finance Data Analyst intern @ Ernst & Young (EY) (_June 2018 - September 2018_)**
+**Finance Data Analyst intern @ Ernst & Young (EY) (June 2018 - September 2018)**
 
 
 ## Projets
